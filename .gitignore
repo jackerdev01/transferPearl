@@ -1,0 +1,17 @@
+# Personal config & secrets - never commit
+config.json
+*.local.json
+.env
+*.seed
+*.key
+*.cert
+
+# Runtime files
+*.log
+__pycache__/
+*.pyc
+
+# Local notes / downloaded third-party installers
+doc.txt
+install.ps1
+install.sh

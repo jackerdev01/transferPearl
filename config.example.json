@@ -1,0 +1,21 @@
+{
+  "language": "en",
+  "rpc_url": "https://127.0.0.1:44207",
+  "rpc_user": "",
+  "rpc_pass": "",
+  "rpc_cert": "",
+  "tls_verify": true,
+  "wallet_passphrase": "",
+
+  "to_address": "prl1p_YOUR_DESTINATION_ADDRESS",
+  "min_transfer": "1",
+  "max_transfer": "100",
+  "amount_mode": "max",
+  "keep_balance": "0",
+  "fee_reserve": "0.001",
+  "fee_rate": "0.00001",
+
+  "min_conf": 1,
+  "interval_seconds": 60,
+  "log_file": "pearl_transfer.log"
+}
